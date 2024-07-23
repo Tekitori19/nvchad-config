@@ -5,7 +5,7 @@
 local M = {}
 
 M.ui = {
-	theme = "catppuccin",
+	theme = "ayu_dark",
   transparency = true,
 
 	hl_override = {
